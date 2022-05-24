@@ -1,37 +1,35 @@
+# MediaPasifika
+
 ## MediaPasifika
+Welcome to MediaPasifika – New Zealand’s Media Database. The comprehensive source of reliable contact information for media publications, including individual names and websites, phone numbers, and email and physical addresses of national and local media, as well as MPs, ministers, and government departments.
 
-You can use the [editor on GitHub](https://github.com/scoopmedia/mediapasifika-webpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Aotearoa’s media landscape is in a process of continual churn, with individuals constantly moving among different outlets. Are you having difficulty keeping track and making sense of it all?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whether you want to contact your government representatives, magazine editors, business correspondents, advertising managers, or regional beat reporters, our easily accessible NZ database contains over 1,500 listed current and past contacts, and is updated regularly.
 
-### Markdown
+MediaPasifika is specifically designed to provide a multi-purpose tool tailored for publicists to get the widest possible reach of audiences and demographics for targeted distribution of your professional press releases.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Register
 
-# Header 1
-## Header 2
-### Header 3
+Complete the form and we’ll get you set up in no time.
 
-- Bulleted
-- List
+We use Google forms - [Form link](https://forms.gle/3TcroQVCTgd5MD7A6)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Login
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Existing Users:
 
-### Jekyll Themes
+[Login to the MediaPasifika database](https://hou.mediapasifika.com/v2/?2020)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/scoopmedia/mediapasifika-webpage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Download the MediaPasifika User Guide](https://github.com/scoopmedia/mediapasifika-webpage/files/8759188/mediapasifika-user-guide-v2-aug-2020.pdf)
 
-### Support or Contact
+  
+## Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For more information, help using and getting started or to set up your service contact: [services@scoop.co.nz](mailto:services@scoop.co.nz)
+
+
+  
