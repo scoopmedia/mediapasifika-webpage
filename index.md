@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## MediaPasifika
 
 You can use the [editor on GitHub](https://github.com/scoopmedia/mediapasifika-webpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
